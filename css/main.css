@@ -1,0 +1,39 @@
+#title{
+  background-color: #0CE6ED;
+  border-radius: 5px;
+  top: -150%;
+}
+
+#otherChart {
+  background-color: green;
+
+}
+
+#intro {
+  font-size: 25px;
+  background-color: #830CED;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Bree Serif';
+  color: black;
+  font-size: 75px;
+  border-radius: 25px;
+  margin: 0;
+}
+
+html,body {
+  height:100%;
+  width:100%;
+}
+
+#columnChart {
+  height:50%;
+  width:50%;
+  min-height:150px;
+}
+
+.zc-ref {
+  display: none;
+}
